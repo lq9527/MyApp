@@ -11,5 +11,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("测试 git pull");
+        System.out.println("测试 git pull");
+        System.out.println("测试 git pull");
+
+
+//        测试
     }
 }
